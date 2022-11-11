@@ -14,5 +14,5 @@ associated to the camera center.
 Run script
 
     
-    python3 Wrapper.py
+    python3 EKF_slam_main.py
     
