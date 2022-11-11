@@ -9,3 +9,9 @@ frames of the dataset selected. Used the following paper as a reference
 
 The output of the algorithm is a point cloud of the map and a set of 3D locations 
 associated to the camera center. 
+
+
+Run script
+    ```
+    python Wrapper.py
+    ```
