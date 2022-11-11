@@ -13,6 +13,6 @@ associated to the camera center.
 
 Run script
 
-    ```
-    python Wrapper.py
-    ```
+    
+    python3 Wrapper.py
+    
